@@ -2,24 +2,24 @@
   {
     "id": 0,
     "title": "olucasyamada",
-    "url": "./trins/public/imgs/eu1.jpg",
-    "urlpost": "./trins/public/imgs/311-1024x576.png",
+    "url": "imgs/eu1.jpg",
+    "urlpost": "imgs/311-1024x576.png",
     "subscription": "Dia de treino pesado.",
     "checked": 0
   },
   {
     "id": 1,
     "title": "crisdestinoserragaucha",
-    "url": "trins/public/imgs/av14.jpg",
-    "urlpost": "./trins/public/imgs/images (1).jpg",
+    "url": "imgs/av14.jpg",
+    "urlpost": "imgs/images (1).jpg",
     "subscription": "Essa vista é linda e parece uma obra de arte!",
     "checked": 0
   },
   {
     "id": 2,
     "title": "carlinhossilva",
-    "url": "../../public/imgs/trins/public/imgs/av12.jpg",
-    "urlpost": "./trins/public/imgs/images (2).jpg",
+    "url": "imgs/av12.jpg",
+    "urlpost": "imgs/images (2).jpg",
     "subscription": "Gosto de jogar bola com os meus amigos mas sempre me machuco",
     "checked": 0
   },
