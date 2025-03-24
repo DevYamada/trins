@@ -22,7 +22,7 @@ function NavBar() {
     <>
       <div className="card">
         <div className="inputfield">
-          <img className="card-img-top aut" src="./trins/public/imgs/pfp.jpg" alt="a" />
+          <img className="card-img-top aut" src="imgs/pfp.jpg" alt="a" />
           <p></p>
           <input
             className="type"
