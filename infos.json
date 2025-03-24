@@ -10,7 +10,7 @@
   {
     "id": 1,
     "title": "crisdestinoserragaucha",
-    "url": "./trins/public/imgs/av14.jpg",
+    "url": "trins/public/imgs/av14.jpg",
     "urlpost": "./trins/public/imgs/images (1).jpg",
     "subscription": "Essa vista é linda e parece uma obra de arte!",
     "checked": 0
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "title": "carlinhossilva",
-    "url": "./trins/public/imgs/av12.jpg",
+    "url": "../../public/imgs/trins/public/imgs/av12.jpg",
     "urlpost": "./trins/public/imgs/images (2).jpg",
     "subscription": "Gosto de jogar bola com os meus amigos mas sempre me machuco",
     "checked": 0
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "title": "luanribeiro",
-    "url": "./trins/public/imgs/download (4).jpg",
+    "url": "/imgs/download (4).jpg",
     "urlpost": "./trins/public/imgs/download (2).jpg",
     "subscription": "Foto da minha viagem quando fui para a escócia em 2018 na época que eu ainda era jovem.",
     "checked": 0
