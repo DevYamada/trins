@@ -27,7 +27,7 @@ body{
 }
 
 .card-body{
-  padding: 8px;
+  padding: 12px;
   display: grid;
 }
 
@@ -43,6 +43,7 @@ body{
   justify-content: center;
   text-indent: 10px;
   font-weight: bold;
+  margin-top: 4.2px;
 }
 
 .card-text{
@@ -59,13 +60,70 @@ body{
 
 .img-post-div{
   display: flex;
+  width: fit-content;
 
-  margin-bottom: 12px;
-  padding-left: 2.38rem;
+  padding-left: 2.5rem;
+  padding-right: 0.2rem;
+
 }
 
 .img-post{
+  width: 100%;
   border-radius: 6px;
-  
   max-width: 390px;
+}
+
+.like {
+
+  transition: 0.3s;
+  margin: 10px;
+  margin-bottom: 2px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid white;
+  background-color: transparent;
+  border-radius: 50%;
+}
+
+.like:active {
+  transition: 0.3s;
+  background-color: white;
+}
+
+.type{
+
+  min-height: 50px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.169);
+  border-bottom: 0;
+  border-top: 0;
+  width: 100%;
+  color: rgba(255, 255, 255, 0.884);
+  outline: none;
+}
+
+.type::placeholder{
+  font-size: 12px;
+}
+
+.attach{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.aut {
+  margin: 10px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid purple;
+}
+
+.inputfield{
+  display: flex;
+}
+
+.right {
+  margin-left: auto;
+  margin-right: 10px;
+  color: rgba(255, 255, 255, 0.855);
 }

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 function DisplayCards({ card }) {
-  return (
+  return (  
     <div className="card">
       <div className="card-body">
 
@@ -11,6 +11,12 @@ function DisplayCards({ card }) {
         <p className="card-text">{card.subscription}</p>
         <div className="img-post-div">
             <img className="img-post" src={card.urlpost} alt="" />
+        </div>
+        <div className="img-post-div">
+            <button className="like"></button>
+            <button className="like"></button>
+            <button className="like"></button>
+            <button className="like"></button>
         </div>
       </div>
     </div>

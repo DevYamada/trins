@@ -2,33 +2,33 @@
   {
     "id": 0,
     "title": "olucasyamada",
-    "url": "./imgs/img1.jpeg",
-    "urlpost": "imgs/311-1024x576.png",
-    "subscription": "Acordar no horário certo.",
+    "url": "./trins/public/imgs/eu1.jpg",
+    "urlpost": "./trins/public/imgs/311-1024x576.png",
+    "subscription": "Dia de treino pesado.",
     "checked": 0
   },
   {
     "id": 1,
     "title": "crisdestinoserragaucha",
-    "url": "imgs/img2.jpeg",
-    "urlpost": "imgs/download (3).jpg",
-    "subscription": "Acordar no horário certo.",
+    "url": "./trins/public/imgs/av14.jpg",
+    "urlpost": "./trins/public/imgs/images (1).jpg",
+    "subscription": "Essa vista é linda e parece uma obra de arte!",
     "checked": 0
   },
   {
     "id": 2,
-    "title": "programming",
-    "url": "imgs/img3.jpeg",
-    "urlpost": "",
-    "subscription": "Acordar no horário certo.",
+    "title": "carlinhossilva",
+    "url": "./trins/public/imgs/av12.jpg",
+    "urlpost": "./trins/public/imgs/images (2).jpg",
+    "subscription": "Gosto de jogar bola com os meus amigos mas sempre me machuco",
     "checked": 0
   },
   {
     "id": 3,
     "title": "luanribeiro",
-    "url": "imgs/img4.jpeg",
-    "urlpost": "",
-    "subscription": "Acordar no horário certo.",
+    "url": "./trins/public/imgs/download (4).jpg",
+    "urlpost": "./trins/public/imgs/download (2).jpg",
+    "subscription": "Foto da minha viagem quando fui para a escócia em 2018 na época que eu ainda era jovem.",
     "checked": 0
   }
 ]

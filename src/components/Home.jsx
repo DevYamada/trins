@@ -1,6 +1,7 @@
 import Cards from "../components/Cards";
 import infos from "../../public/infos.json";
 import { useEffect, useState } from "react";
+import NavBar from "../components/NavBar";
 
 function Home() {
   const [infosC, setInfos] = useState("");
@@ -26,7 +27,9 @@ function Home() {
       </div>
     );
   } else {
-    return infosC.map((cards) => <Cards card={cards} key={cards.id} />);
+    return (
+        infosC.map((cards) => <Cards card={cards} key={cards.id} />)
+    );
   }
 }
 
